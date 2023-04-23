@@ -1,3 +1,2 @@
 # prince.github.io
-Website Portfolio
-Download the file and run on Visual Studio Code!
+Personal Portfolio website indicating projects and connections!
