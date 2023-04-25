@@ -643,7 +643,7 @@ progress {
 .img-fluid2 {
   text-align: justify;
   max-width: 75%;
-  height: 75%;
+  max-height: 75%;
   margin-left: 15%;
   margin-top: 10%;
 }
