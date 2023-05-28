@@ -605,6 +605,7 @@ progress {
 .img-page {
   max-width: 20%;
   height: 20%;
+  object-fit: cover;
 }
 
 .img-page:hover{
