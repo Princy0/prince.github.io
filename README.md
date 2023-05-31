@@ -1,6 +1,4 @@
-# Personal Portfolio
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Princy0&label=Profile%20views&color=0e75b6&style=flat" alt="Princy0" /> </p>
+# Prince Prajapati
 
 A personal portfolio website built using JavaScript, HTML, and CSS. The portfolio showcases my projects, skills, and experiences to potential employers and clients.
 
