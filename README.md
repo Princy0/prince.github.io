@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Princy0/prince.github.io&label=Profile%20views&color=0e75b6&style=flat" alt="Princy0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Princy0&label=Profile%20views&color=0e75b6&style=flat" alt="Princy0" /> </p>
 
 A personal portfolio website built using JavaScript, HTML, and CSS. The portfolio showcases my projects, skills, and experiences to potential employers and clients.
 
