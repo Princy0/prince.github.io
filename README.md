@@ -25,7 +25,7 @@ A personal portfolio website built using JavaScript, HTML, and CSS. The portfoli
 
 1. Clone the repository:
 
-   git clone https://github.com/Princy0/portfolio-repo.git
+   git clone https://github.com/Princy0/prince.github.io.git
    
 
 2. Open the project in your preferred code editor.
