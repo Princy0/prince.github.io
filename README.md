@@ -48,6 +48,12 @@ You can customize various aspects of the portfolio, such as:
 
 Feel free to explore the code and make any necessary changes to personalize the portfolio to your liking.
 
+## Contact
+- You can contact me for contributing more prjects and learning : 
+- Email : Princepn029@gmail.com
+- Linkedin : https://www.linkedin.com/in/princeprajapati/
+- Portfolio : https://princy0.github.io/prince.github.io/
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
